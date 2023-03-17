@@ -1,5 +1,4 @@
 # taksimetre
-//patika.dev taksimetre ödev
 
 import java.util.Scanner;
 public class main {
